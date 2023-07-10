@@ -18,9 +18,7 @@
 <script lang="ts">
 import { defineComponent, ref } from "vue";
 
-// import { useWalletStore } from '../stores/wallet'
-
 export default defineComponent({
-  components: {},
+  components: { NavBar },
 });
 </script>
